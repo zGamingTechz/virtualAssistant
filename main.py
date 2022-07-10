@@ -8,7 +8,6 @@ import spotify
 import pywhatkit
 import random
 import playsound
-# test
 
 #---Initialisations & Attributes---
 assistant = pyttsx3.init('sapi5')
