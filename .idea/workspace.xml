@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db091272-84c4-4e7e-a1d0-6b1617b7dc6e" name="Changes" comment="New Folder for GUI Setup">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/main.py" afterDir="false" />
+    <list default="true" id="db091272-84c4-4e7e-a1d0-6b1617b7dc6e" name="Changes" comment="Added basic tkinter GUI">
       <change beforePath="$PROJECT_DIR$/GUI/tkinter_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/tkinter_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721766130941</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added basic tkinter GUI">
+      <option name="closed" value="true" />
+      <created>1721768939008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721768939008</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +182,7 @@
     <MESSAGE value="test commit 2" />
     <MESSAGE value="llama 2 integrated" />
     <MESSAGE value="New Folder for GUI Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Folder for GUI Setup" />
+    <MESSAGE value="Added basic tkinter GUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added basic tkinter GUI" />
   </component>
 </project>
