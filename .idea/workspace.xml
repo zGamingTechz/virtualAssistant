@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db091272-84c4-4e7e-a1d0-6b1617b7dc6e" name="Changes" comment="Added basic tkinter GUI">
-      <change beforePath="$PROJECT_DIR$/GUI/tkinter_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/tkinter_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/tkinter_test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
     "Python.tkinter_test.executor": "Run",
+    "Python.tkinter_test_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
