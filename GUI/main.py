@@ -3,7 +3,6 @@ import datetime
 import wikipedia
 import os
 import webbrowser
-#import spotify
 import pywhatkit
 import random
 import play_audio
