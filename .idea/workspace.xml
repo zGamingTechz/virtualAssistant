@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db091272-84c4-4e7e-a1d0-6b1617b7dc6e" name="Changes" comment="Completed GUI Changes">
+    <list default="true" id="db091272-84c4-4e7e-a1d0-6b1617b7dc6e" name="Changes" comment="Not responding error">
+      <change afterPath="$PROJECT_DIR$/GUI/GUI Lisa Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GUI/GUI Lisa.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/GUI Lisa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/essential_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/essential_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.GUI Lisa Copy.executor": "Run",
+    "Python.GUI Lisa Main.executor": "Run",
     "Python.GUI Lisa.executor": "Run",
     "Python.essential_functions.executor": "Run",
     "Python.functions.executor": "Run",
@@ -173,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721850434303</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Not responding error">
+      <option name="closed" value="true" />
+      <created>1721852627622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721852627622</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +218,7 @@
     <MESSAGE value="Merge branch 'main' of https://github.com/zGamingTechz/virtualAssistant" />
     <MESSAGE value="Test" />
     <MESSAGE value="Completed GUI Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed GUI Changes" />
+    <MESSAGE value="Not responding error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Not responding error" />
   </component>
 </project>

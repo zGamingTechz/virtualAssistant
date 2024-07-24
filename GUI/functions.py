@@ -128,3 +128,4 @@ def lisa_functions(query):
         response = ai_chat.chat(query)
         speak(response)
         print("Lisa said: ", response)
+        return response

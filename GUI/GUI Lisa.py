@@ -69,9 +69,9 @@ class App:
         self.textbox.delete("1.0", ctk.END)
 
     @staticmethod
-    def send_voice_message():
+    async def send_voice_message():
         query = take_voice_input()
-        functions.lisa_functions(query)
+        await functions.lisa_functions(query)
 
 
 App()
