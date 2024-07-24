@@ -1,8 +1,12 @@
 import customtkinter as ctk
+from essential_functions import take_voice_input
+import functions
 
 
 class App:
     def __init__(self):
+        functions.greet()
+
         #---Definitions---
         self.root = ctk.CTk()
         self.root.title("Lisa (Llama 2 7b)")
@@ -21,7 +25,7 @@ class App:
         self.voice_button = ctk.CTkButton(
             self.root, text="Speak",
             font=ctk.CTkFont(size=50, weight="bold"),
-            command=self.send_message,
+            command=self.send_voice_message,
             corner_radius=100,
             width=100,
             height=100,
@@ -59,11 +63,15 @@ class App:
 
     def send_message(self):
         message = self.textbox.get("1.0", ctk.END)
-        print(message)
-        "----TO:DO----"
-        # ai_chat.chat()
+
+        functions.lisa_functions(message)
 
         self.textbox.delete("1.0", ctk.END)
+
+    @staticmethod
+    def send_voice_message():
+        query = take_voice_input()
+        functions.lisa_functions(query)
 
 
 App()

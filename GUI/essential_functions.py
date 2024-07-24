@@ -51,26 +51,3 @@ def take_voice_input():
         return "None"
 
     return query
-
-
-#---Keep Listening/Idle---
-def keep_listening():
-    r = sr.Recognizer()
-
-    with sr.Microphone() as source:
-        print('Idle...')
-        r.energy_threshold = 450
-        r.pause_threshold = 0.5
-        r.adjust_for_ambient_noise(source, duration=1)
-        audio = r.listen(source, phrase_time_limit=4)
-
-    try:
-        print('Understanding...')
-        query = r.recognize_google(audio, language='en-in').lower()
-        print('User-Said:', query)
-
-    except Exception as e:
-        print(e)
-        return "None"
-
-    return query
