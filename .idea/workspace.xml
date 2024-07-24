@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db091272-84c4-4e7e-a1d0-6b1617b7dc6e" name="Changes" comment="Added basic tkinter GUI">
-      <change afterPath="$PROJECT_DIR$/GUI/tkinter_test_2.py" afterDir="false" />
+    <list default="true" id="db091272-84c4-4e7e-a1d0-6b1617b7dc6e" name="Changes" comment="Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/tkinter_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/tkinter_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/tkinter_test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/tkinter_test_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.essential_functions.executor": "Run",
-    "Python.main copy.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.play_audio.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "Python.tkinter_test.executor": "Run",
-    "Python.tkinter_test_2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Developer/VirtualAssistant Remake/GUI",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.essential_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.play_audio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_test_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Developer/VirtualAssistant Remake/GUI&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
@@ -153,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721768939008</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <option name="closed" value="true" />
+      <created>1721772138277</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721772138277</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +194,8 @@
     <MESSAGE value="llama 2 integrated" />
     <MESSAGE value="New Folder for GUI Setup" />
     <MESSAGE value="Added basic tkinter GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added basic tkinter GUI" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/zGamingTechz/virtualAssistant" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
